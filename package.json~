@@ -1,0 +1,19 @@
+{
+  "name": "atpl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushkarsaraf/ATPL.git"
+  },
+  "author": "Pushkar Saraf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushkarsaraf/ATPL/issues"
+  },
+  "homepage": "https://github.com/pushkarsaraf/ATPL#readme"
+}
